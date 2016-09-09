@@ -1,0 +1,21 @@
+{
+  "name": "github-scraper",
+  "description": "Updated",
+  "main": "server.js",
+  "authors": [
+    "iamtylerd <tylerdanielphotography@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/iamtylerd/github-scraper",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

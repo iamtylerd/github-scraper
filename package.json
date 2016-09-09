@@ -1,0 +1,28 @@
+{
+  "name": "github-scraper",
+  "version": "1.0.0",
+  "description": "Updated",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtylerd/github-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtylerd/github-scraper/issues"
+  },
+  "homepage": "https://github.com/iamtylerd/github-scraper#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.6.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
